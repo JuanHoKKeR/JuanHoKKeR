@@ -1,7 +1,10 @@
+![Kiran1689 Banner Image](https://github.com/JuanHoKKeR/JuanHoKKeR/blob/main/juancruzdev%20banner%20short.png)
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div>
+  <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=30&pause=1000&color=D82C20&background=D82C2000&center=true&vCenter=true&width=500&lines=Welcome!+My+name+is+Juan+Cruz;I'm+Electronics+Enginer;Junior+Full+Stack+Developer;Robotics+and+deep+learning+enthusiast" alt="Typing SVG" /></a>
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=30&pause=1000&color=D82C20&background=D82C2000&center=true&vCenter=true&width=500&lines=Welcome!+My+name+is+Juan+Cruz;I'm+Electronics+Enginer;Junior+Full+Stack+Developer;Robotics+and+deep+learning+enthusiast" alt="Typing SVG" /></a>
 
 ## Hi there 👋
 
