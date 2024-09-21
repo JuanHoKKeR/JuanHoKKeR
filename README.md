@@ -19,6 +19,8 @@
   </p>
 </div>
 
+🔭 **I’m currently working on:**  <br>Developing Websites in CMS and creating automations with AI in Workflows and Chatbots<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>🌱 **I’m currently learning:**  <br>Angular, Pytorch and ROS<br><br>⚡ **Fun fact:**  <br>I enjoy designing and printing 3D objects, and continually learning and creating new things.
+
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
@@ -36,20 +38,6 @@
 </a>
 </div>
 
-<!--
-**JuanHoKKeR/JuanHoKKeR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- Tools and Platforms -->
 
 <!--Languages and Tools Section-->       
