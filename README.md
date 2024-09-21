@@ -5,9 +5,19 @@
   <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=30&pause=1000&color=D82C20&background=D82C2000&center=true&vCenter=true&width=500&lines=Welcome!+My+name+is+Juan+Cruz;I'm+Electronics+Enginer;Junior+Full+Stack+Developer;Robotics+and+deep+learning+enthusiast" alt="Typing SVG" /></a>
 </div>
 
-
-## Hi there 👋
-
+<div>
+  <h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> About Me</h1>
+  <p>
+    I'm an <strong>Electronics Engineering student</strong> with a passion for integrating technology and innovation. 
+    I have a strong foundation in <em>analog & digital design</em>, <em>power electronics</em>, and <em>telecommunications</em>.
+    My journey includes hands-on experience in <em>robotics</em>, <em>Deep Learning</em>, and <em>image processing</em>.
+  </p>
+  <p>
+      In software development, I possess skills in <strong>full-stack development</strong>, <strong>database management</strong>, and <strong>data analysis</strong>.
+      I've led projects in <em>IoT</em>, <em>control systems</em>, and <em>bioengineering</em>, and have designed and built <em>3D printers</em>.
+      Always eager to learn, I’m excited to tackle new challenges and push the boundaries of technology! 🚀🤖
+  </p>
+</div>
 <!--
 **JuanHoKKeR/JuanHoKKeR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +32,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Tools and Platforms -->
+
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
