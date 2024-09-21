@@ -18,7 +18,7 @@
       Always eager to learn, I’m excited to tackle new challenges and push the boundaries of technology! 🚀🤖
   </p>
 </div>
-
+<img align="right" src="https://github.com/JuanHoKKeR/JuanHoKKeR/blob/main/Rin_Itoshi.png" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 🔭 **I’m currently working on:**  <br>Developing Websites in CMS and creating automations with AI in Workflows and Chatbots<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>🌱 **I’m currently learning:**  <br>Angular, Pytorch and ROS<br><br>⚡ **Fun fact:**  <br>I enjoy designing and printing 3D objects, and continually learning and creating new things.
 
 <!--Contact Section--> 
