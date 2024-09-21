@@ -34,5 +34,13 @@ Here are some ideas to get you started:
 -->
 <!-- Tools and Platforms -->
 
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,django,git,github,vscode,docker,sqlite,aws,linux,ubuntu,anaconda,arduino,autocad,cpp,codepen,fastapi,latex,matlab,notion,opencv,qt,raspberrypi,ros,sklearn,tensorflow,wordpress,&perline=10"  />
+</p>
+<br />
+
+
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
